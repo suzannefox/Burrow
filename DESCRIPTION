@@ -1,0 +1,15 @@
+Package: burrow
+Type: Package
+Title: Returns Metadata about dataframes
+Version: 0.1.0
+Author: Suzanne Fox
+Maintainer: The package maintainer <suzanne.fox@city.ac.uk>
+Description: Analyses a dataframe and gives information about its 'shape'
+    i.e. Variables it contains and their characteristics
+Depends: 
+    dplyr (>= 0.7.0),
+    caret,
+    e1071
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
