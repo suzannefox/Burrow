@@ -1,7 +1,8 @@
 # burrow
 
-Install with devtools::install_github("suzannefox/burrow")  
-Return metadata about a dataframe. For instance with iris dataset -
+Install with devtools::install_github("suzannefox/burrow")
+
+Returns metadata about a dataframe. For instance with iris dataset -
 
   library(burrow)  
   data.shape <- datashape(iris)
