@@ -2,7 +2,7 @@
 
 Return metadata about a dataframe. For instance with iris dataset -
 
-library(burrow)
+library(burrow)\n
 data.shape <- datashape(iris)
 
 A dataframe is returned with this structure -
