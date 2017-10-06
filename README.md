@@ -6,4 +6,4 @@ data.shape <- datashape(iris)
 
 Returns -
 
-![alt text](https://github.com/suzannefox/burrow/burrow.png)
+![data.shape dataframe](https://github.com/suzannefox/burrow/burrow.png?raw=true)
